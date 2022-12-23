@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.9f088a99.css",
-    "main.js": "./static/js/main.9180081d.js",
-    "static/js/787.cda612ba.chunk.js": "./static/js/787.cda612ba.chunk.js",
-    "index.html": "./index.html",
-    "main.9f088a99.css.map": "./static/css/main.9f088a99.css.map",
-    "main.9180081d.js.map": "./static/js/main.9180081d.js.map",
-    "787.cda612ba.chunk.js.map": "./static/js/787.cda612ba.chunk.js.map"
+    "main.css": "./redanews-frontend-production/static/css/main.9f088a99.css",
+    "main.js": "./redanews-frontend-production/static/js/main.22eb1ad3.js",
+    "static/js/787.cda612ba.chunk.js": "./redanews-frontend-production/static/js/787.cda612ba.chunk.js",
+    "index.html": "./redanews-frontend-production/index.html",
+    "main.9f088a99.css.map": "./redanews-frontend-production/static/css/main.9f088a99.css.map",
+    "main.22eb1ad3.js.map": "./redanews-frontend-production/static/js/main.22eb1ad3.js.map",
+    "787.cda612ba.chunk.js.map": "./redanews-frontend-production/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f088a99.css",
-    "static/js/main.9180081d.js"
+    "static/js/main.22eb1ad3.js"
   ]
 }
